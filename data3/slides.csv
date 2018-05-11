@@ -1,0 +1,6 @@
+00:00:00,00:00:22, System Implementation: Inverted Index Construction
+00:00:23,00:01:47, Constructing Inverted Index
+00:03:10,00:05:05, Sort-based Inversion
+00:05:06,00:09:12, Inverted Index Compression
+00:09:13,00:16:53, Integer Compression Methods
+00:16:54,00:18:21, Uncompress Inverted Index

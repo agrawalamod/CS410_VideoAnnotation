@@ -1,0 +1,8 @@
+0:00:00,0:00:33, Overview
+0:00:33,0:05:05, Document Clustering Revisited
+0:05:05,0:09:31, Text Categorization with Naive Bayes Classifier
+0:09:32,0:10:48, Learn from the Training Data
+0:10:48,0:13:22, How to Estimate p(w|theta) and p(theta)
+0:13:22,0:16:33, Na�ve Bayes Classifier: p(theta)=? and p(w|theta) = ?
+0:16:33,0:23:47, Smoothing in Naive Bayes 
+0:23:47,0:31:18, Anatomy of Naive Bayes Classifier

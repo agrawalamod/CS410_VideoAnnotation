@@ -1,0 +1,9 @@
+00:00:00,00:00:30, Implementation of Text Retrieval Systems
+00:00:31,00:03:09, Typical TR System Architecture
+00:03:10,00:04:39, Tokenization
+00:04:40,00:05:53, Indexing
+00:05:54,00:11:04, Inverted Index Example
+00:11:05,00:13:45, Inverted Index for Fast Search 
+00:13:46,00:14:54, Empirical Distribution of Words
+00:14:55,00:18:03, Zipf’s Law
+00:18:04,00:21:27, Data Structures for Inverted Index
